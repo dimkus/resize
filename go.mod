@@ -1,3 +1,3 @@
-module github.com/k-danil/resize
+module github.com/dimkus/resize
 
 go 1.20
